@@ -8,7 +8,7 @@ A mail delivery robot that picks up and drops off parcels through a network of c
 
 A persistent (immutable) data structure with add, delete and has methods.
 
-## Running the projects
+### Running the projects
 
 1) Clone the repo.
 2) Navigate to the directory containing the .js files.
